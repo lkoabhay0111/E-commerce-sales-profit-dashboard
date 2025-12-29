@@ -36,7 +36,7 @@ using Python script integration.
 - Power BI Dashboard 
 - Project Presentation 
 - Cleaned Dataset
-- jupyter notebook file
+- jupyter notebook file(Data cleaning, analysis, and visualization in Python)
 
 ## Conclusion
 The dashboard provides actionable insights into sales performance and
